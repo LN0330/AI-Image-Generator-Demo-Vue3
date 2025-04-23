@@ -1,5 +1,7 @@
+// GeneratorAPI/Controllers/GreetingController.cs
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using GeneratorAPI.Models;
 
 [Route("api/greeting")]
 public class GreetingController : ControllerBase
@@ -60,8 +62,4 @@ public class GreetingController : ControllerBase
         return NotFound(new { message = "圖片還未生成" });
     }
 
-    public class UserPrompt
-    {
-        public required string Prompt { get; set; }
-    }
 }
