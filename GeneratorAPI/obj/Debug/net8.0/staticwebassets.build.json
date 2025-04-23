@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wNyKhfpzG9lkGolCYpP5MmFYyoJVSuQUD3FDBUxvZx8=",
+  "Source": "GeneratorAPI",
+  "BasePath": "_content/GeneratorAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Neo/source/repos/GreetingAPI/llama_model/stable-diffusion.cpp/build/cmake_install.cmake",
+		"C:/Users/Neo/source/repos/GreetingAPI/llama_model/stable-diffusion.cpp/build/ggml/cmake_install.cmake",
+		"C:/Users/Neo/source/repos/GreetingAPI/llama_model/stable-diffusion.cpp/build/ggml/src/cmake_install.cmake",
+		"C:/Users/Neo/source/repos/GreetingAPI/llama_model/stable-diffusion.cpp/build/ggml/src/ggml-cpu/cmake_install.cmake",
+		"C:/Users/Neo/source/repos/GreetingAPI/llama_model/stable-diffusion.cpp/build/thirdparty/cmake_install.cmake",
+		"C:/Users/Neo/source/repos/GreetingAPI/llama_model/stable-diffusion.cpp/build/examples/cmake_install.cmake",
+		"C:/Users/Neo/source/repos/GreetingAPI/llama_model/stable-diffusion.cpp/build/examples/cli/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
