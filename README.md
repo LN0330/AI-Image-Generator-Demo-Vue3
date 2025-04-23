@@ -1,5 +1,5 @@
-# AI-ImageGenerator-Demo
-### 透過 Vue3 前端 + ASP.NET Core Web API 後端 實作 AI 圖像生成功能 (使用本地 Stable Diffusion 模型)
+# AI-ImageGenerator-Demo (Vue 3)
+### 透過 Vue 3 前端 + ASP.NET Core Web API 後端 實作 AI 圖像生成功能 (使用本地 Stable Diffusion 模型)
 - Demo重點: 前後端分離設計、MVC概念實作、RESTful API 傳遞、非同步流程控制
 ---
 
