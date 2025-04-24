@@ -18,4 +18,4 @@
 ---  
 - 示意圖:  
 ![image](https://github.com/LN0330/AI-Image-Generator-Demo-Vue3/blob/main/Gif/gif_vue.gif)  
-![image](https://github.com/LN0330/AI-ImageGenerator-Vue3-Demo/blob/main/Gif/png_vue.png)  
+![image](https://github.com/LN0330/AI-ImageGenerator-Vue3-Demo/blob/main/Gif/01.png)  
